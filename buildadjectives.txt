@@ -1,0 +1,65 @@
+Agile
+bootstrapped
+Web 2.0
+Apache-driven
+multi-channelled
+open-source
+cross-platform
+distributed
+cross-group
+ergonomic
+4th generation
+bi-directional
+configurable
+object-oriented
+triple-buffered
+homogeneous
+multi-state
+future-proofed
+grid-enabled
+visionary
+phased
+static
+intangible
+web-enabled
+proactive
+zero defect
+focused
+synchronized
+client-server
+front-line
+digitized
+bi-directional
+enterprise-wide
+neural
+fundamental
+local
+JavaScript
+SQL
+Rails
+PHP
+PostgreSQL
+Django
+Node.js
+cached
+URL
+Ajax
+CMS
+three-tier
+resource-oriented
+semantic
+Ruby
+jQuery
+iOS
+Objective-C
+mapped
+authentication
+authorization
+MVC
+cohesive
+dynamically allocated
+hypertext
+hand-coded
+machine learning
+reusable
+state-of-the-art

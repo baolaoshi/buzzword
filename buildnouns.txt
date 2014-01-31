@@ -1,0 +1,45 @@
+intranet
+graphic interface
+circuit
+methodology
+algorithm
+strategy
+model
+migration
+throughput
+array
+solution
+hardware
+architecture
+data hub
+parallelism
+functionality
+core
+emulation
+matrix
+analyzer
+contingency
+dogfooder
+network
+framework
+encryption
+policy
+database
+GUI
+engine
+conglomeration
+portal
+application
+methodology
+diagram
+scaffold
+utility
+infrastructure
+server
+pattern
+interface
+gateway
+full stack
+library
+web service
+scraper

@@ -1,0 +1,4 @@
+buzzword
+========
+
+makes resume bullets
